@@ -29,7 +29,7 @@
     },
     "FSUB": {
       "description": "Enter your Force Subscribe channel Username without @",
-      "required": true
+      "required": false 
     },
     "SUDO": {
       "description": "Enter Bot Owners IDS",
